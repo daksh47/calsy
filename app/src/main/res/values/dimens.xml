@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="radius">28dp</dimen>
+    <dimen name="height">70dp</dimen>
+    <dimen name="width">56dp</dimen>
+    <dimen name="dp1">24dp</dimen>
+    <dimen name="dp2">50dp</dimen>
+    <dimen name="width1">132dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="dp3">100dp</dimen>
+</resources>
